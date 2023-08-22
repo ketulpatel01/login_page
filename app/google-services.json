@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21506369640",
+    "project_id": "login-page-id",
+    "storage_bucket": "login-page-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21506369640:android:d31d8883261eedf79e73dd",
+        "android_client_info": {
+          "package_name": "com.ketul.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21506369640-0mqdgiogclbojllbc3l9aluvao44sdc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQxMjr49txy6QFggPbdseXNQpT9-0LP6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21506369640-0mqdgiogclbojllbc3l9aluvao44sdc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
